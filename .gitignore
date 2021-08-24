@@ -1,3 +1,4 @@
 /shelf/
+
 *.class
-/.idea
+.idea
